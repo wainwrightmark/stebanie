@@ -1,0 +1,150 @@
+- title: Bench Quest
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d2482.300864820539!2d-0.1503049234425738!3d51.52604130934135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzMzLjciTiAwwrAwOCc1MS44Ilc!5e0!3m2!1sen!2suk!4v1691518450843!5m2!1sen!2suk
+  location:
+    longitude: 51.526038
+    latitude: -0.14773
+  html: <p>Use the benches to fill in the grid.</p>
+  questions:
+    - q: '"Father"'
+      a: George
+    - q: Who loved her husband for his looks?
+      a: Aghapi
+    - q: Where does it sound like Hetal is now?
+      a: "R"
+    - q: What did Jane Atkinson do?
+      a: Dance
+    - q: Who's a fan of Monty Python?
+      a: "Eric"
+    - q: What kind of man is Lionel?
+      a: "New"
+    - q: What secret is hidden in the answers above?
+      a: Garden
+- title: It meant a lot, that garden
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d620.546069315345!2d-0.15185573033784308!3d51.52817983257973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzQxLjQiTiAwwrAwOScwNC40Ilc!5e0!3m2!1sen!2suk!4v1691520069242!5m2!1sen!2suk
+  location:
+    longitude: 51.52791
+    latitude: -0.151322
+  html: <p>This one is easy. Just go into the allotment garden, which will definitely be open on a Saturday, and look at the signs on the board. </p>
+  questions:
+    - q: "Why might Stephanie win the war?"
+      a: "potato"
+- title: Myriad Roses
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1241.109117393504!2d-0.15253412506723196!3d51.52755696857152!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzM5LjIiTiAwwrAwOScwNi40Ilc!5e0!3m2!1sen!2suk!4v1691520040387!5m2!1sen!2suk
+  location:
+    longitude: 51.527712
+    latitude: -0.151701
+  html: <img src="https://myriad-game.com/.netlify/functions/image?level=+136595-7&width=600&height=600"/>
+  questions:
+    - q: "The friends Spinoff nobody asked for"
+      a: "19-5"
+      length: 4
+    - q: "Party in a very specific region of France"
+      a: '15\+6|16\+5'
+      length: 4
+    - q: "Anonymous character from Les Mis"
+      a: '5\+6|6\+5'
+      length: 3
+    - q: "A day to remember losing at the Olympics"
+      a: "39-7"
+      length: 4
+    - q: "The lions in Trafalgar Square"
+      a: "35-5"
+      length: 4
+    - q: "Origin of the Word 'rizz'"
+      a: '31\+5-9'
+      length: 6
+    - q: "Mark's favourite color"
+      a: "35-9"
+      length: 4
+- title: Laziness
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d585.7342833742179!2d-0.1543828630637693!3d51.52687730484776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzM2LjgiTiAwwrAwOScxMS4xIlc!5e0!3m2!1sen!2suk!4v1691519192116!5m2!1sen!2suk
+  location:
+    longitude: 51.526874
+    latitude: -0.153081
+  html: <p>This one is just an excuse to climb up the waterfall. </p>
+  questions:
+    - q: "What doesn't rhyme with 'forever'?"
+      a: "treasure"
+- title: Why land on the island
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d292.8678036084416!2d-0.1531647250319592!3d51.52677439767358!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ac54bce3451%3A0x567fae0afe7c6c45!2sThe%20Japanese%20Garden%20Island!5e0!3m2!1sen!2suk!4v1691519395881!5m2!1sen!2suk
+  location:
+    longitude: 51.527479
+    latitude: -0.153022
+  html: <p>Look down at that nice island - you need to go to there.</p>
+  questions:
+    - q: "Which animal is carved on the back of the stone shrine?"
+      a: "horse"
+- title: Scandal!
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d896.7984022083343!2d-0.15403111884227752!3d51.52832632639875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ac4ce4ddadd%3A0x101eadd1143ab34!2sTriton%20and%20Dryads%20Fountain!5e0!3m2!1sen!2suk!4v1691519466761!5m2!1sen!2suk
+  location:
+    longitude: 51.528695
+    latitude: -0.153418
+  html: <p>Head over to the big fountain in the centre of the park. In the interest of managing expectations, the answer to this question is disappointing.</p>
+  questions:
+    - q: "What are the initials of the person who was, according to the inscription on the fountain, a lover of the park's benefactor?"
+      a: "SCHG"
+- title: Community Garden
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d620.5867529759855!2d-0.15400473033786724!3d51.52519483263441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzMwLjciTiAwwrAwOScxMi4xIlc!5e0!3m2!1sen!2suk!4v1691520221057!5m2!1sen!2suk
+  location:
+    longitude: 51.52791
+    latitude: -0.151322
+  html: <p>You may be tested on these answers later.</p>
+  questions:
+    - q: "What animal is \"exciting\"?"
+      a: "Stag Beetle"
+    - q: "Which animal likes Bushy plants?"
+      a: "hedgehog"
+- title: Aerobatic
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1036.0942208108886!2d-0.16161605946516383!3d51.52939047698408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMxJzQ2LjIiTiAwwrAwOSczOS42Ilc!5e0!3m2!1sen!2suk!4v1691519645314!5m2!1sen!2suk
+  location:
+    longitude: 51.52918611
+    latitude: -0.16292889
+  html: <p>You get ten bonus points for each species of bird you see on the way to the Wildlife and Waterfowl centre. The prize for this scavenger hunt will only be awarded if you get enough bonus points.</p>
+  questions:
+    - q: "Whose name comes from two stones being rubbed together?"
+      a: "stonechat"
+    - q: "Who moves in huge aerobatic flocks?"
+      a: "starling"
+    - q: "What species' males sing proudly from prominent spots?"
+      a: "blackcap"
+    - q: "Memory test! What kind of stag is exciting?"
+      a: "beetle"
+    - q: "What does patterned plumage provide?"
+      a: "camouflage"
+    - q: "What is often seen hovering perfectly still?"
+      a: "kestrel"
+    - q: "What word is hidden in the answers?"
+      a: "statue"
+- title: Statue! Gesundheit!
+  map: https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1240.9453918722215!2d-0.1595860760930984!3d51.53356299674914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNTHCsDMyJzAwLjgiTiAwwrAwOSczMS43Ilc!5e0!3m2!1sen!2suk!4v1691520152250!5m2!1sen!2suk
+  location:
+    longitude: 51.532988
+    latitude: -0.161824
+  html: <p>What animals are drawn on the seats around the butterfly boy statue. In alphabetical order.</p>
+  questions:
+    - q: "1"
+      a: "deer"
+    - q: "2"
+      a: "rabbit"
+    - q: "3"
+      a: "squirrel"
+    - q: "4"
+      a: "wolf"
+- title: More Statues
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.4627388656709!2d-0.15896424477436627!3d51.53366489027464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761bf8682df859%3A0x771ae93fd0f406bc!2sGirl%20and%20fox%20carving!5e0!3m2!1sen!2suk!4v1691519739748!5m2!1sen!2suk
+  location:
+    longitude: 51.533437
+    latitude: -0.159226
+  html: <p>Congratulations on getting half way through the scavenger hunt. Remember, you can only win the prize if you complete the hunt within 60 minutes.</p>
+  questions:
+    - q: "What is the name of the animal that the little girl is friends with?"
+      a: "Mr Foxy"
+- title: Even More Statues
+  map: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d864.8994526348226!2d-0.15885666193909015!3d51.53362570975325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761b760ab8d7a1%3A0x83857259a2b9d94b!2sGirl%20with%20Jaguar%20Carving!5e0!3m2!1sen!2suk!4v1691519765375!5m2!1sen!2suk
+  location:
+    longitude: 51.543611
+    latitude: -0.159226
+  html: <p>You must answer this question correctly on your first try or you have to go back to the beginning of the hunt.</p>
+  questions:
+    - q: "What species of big cat is the little girl prowling about with?"
+      a: "jaguar"
