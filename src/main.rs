@@ -45,25 +45,15 @@ fn Puzzle(cx: Scope, puzzle: Memo<Puzzle>, puzzle_index: (Signal<usize>, WriteSi
 
             <h3>{move || puzzle.get().title} </h3>
 
-            <div class="google-map">
-                <iframe
-                 src={move || puzzle.get().map}
-                width="400"
-                height="300"
-                style="border:0;"
-                allowfullscreen=""
-                loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                // <iframe src="[your unique google URL] " width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            </div>
+
+
 
             <div inner_html={move || puzzle.get().html} />
-            <br/>
+
             <hr/>
-            <br/>
 
             <form on:submit=on_submit>
-            <div class="grid">
+
 
                 <For
                     each={move || puzzle.get().questions}
@@ -78,14 +68,33 @@ fn Puzzle(cx: Scope, puzzle: Memo<Puzzle>, puzzle_index: (Signal<usize>, WriteSi
 
                 <input type="submit" value="Submit"/>
 
-                <details>
+
+
+            </form>
+            <hr/>
+
+
+
+
+            <div class="google-map">
+                <iframe
+                 src={move || puzzle.get().map}
+                width="100%"
+                height="400"
+                style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                // <iframe src="[your unique google URL] " width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+
+            <hr/>
+
+            <details>
                 <summary>Cheat</summary>
                 <button disabled={move || puzzle_index.0.get() == 0} on:click=move |_| puzzle_index.1.update(|x|x.sub_assign(1))>"Back"</button>
                 <button  on:click=move |_| puzzle_index.1.update(|x|x.add_assign(1))>"Skip"</button>
-                </details>
-                </div>
-
-            </form>
+            </details>
 
         }
 }

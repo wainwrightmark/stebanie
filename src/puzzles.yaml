@@ -3,7 +3,7 @@
   location:
     longitude: 51.526038
     latitude: -0.14773
-  html: <p>Use the benches to fill in the grid.</p>
+  html: <p>Use the plaques on the benches to answer the questions.</p>
   questions:
     - q: '"Father"'
       a: George
@@ -24,7 +24,7 @@
   location:
     longitude: 51.52791
     latitude: -0.151322
-  html: <p>This one is easy. Just go into the allotment garden, which will definitely be open on a Saturday, and look at the signs on the board. </p>
+  html: <p>This one is easy. Just go into the allotment garden, which will definitely be open on a Saturday, and look at the signs on the board. Use the map below to find your way.</p>
   questions:
     - q: "Why might Stephanie win the war?"
       a: "potato"
